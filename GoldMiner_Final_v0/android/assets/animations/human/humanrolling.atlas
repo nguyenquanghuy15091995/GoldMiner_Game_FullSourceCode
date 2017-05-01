@@ -1,0 +1,33 @@
+
+humanrolling.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+human0
+  rotate: false
+  xy: 1, 1
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+human1
+  rotate: false
+  xy: 101, 1
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+human2
+  rotate: false
+  xy: 201, 1
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+human3
+  rotate: false
+  xy: 301, 1
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1

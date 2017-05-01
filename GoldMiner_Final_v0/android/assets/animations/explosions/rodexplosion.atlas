@@ -1,0 +1,47 @@
+
+rodexplosion.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bz0
+  rotate: false
+  xy: 1, 327
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1
+bz1
+  rotate: false
+  xy: 1, 164
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: false
+  xy: 175, 327
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1
+bz3
+  rotate: false
+  xy: 1, 1
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1
+bz4
+  rotate: false
+  xy: 175, 164
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1
+bz5
+  rotate: false
+  xy: 175, 1
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1

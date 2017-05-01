@@ -1,0 +1,19 @@
+
+targetplaybutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+play0
+  rotate: false
+  xy: 1, 5
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+play1
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
